@@ -1,0 +1,29 @@
+{
+  "name": "assemble-example",
+  "version": "1.0.0",
+  "description": "Whatever!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephenkao/assemble-example.git"
+  },
+  "author": "stephenkao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stephenkao/assemble-example/issues"
+  },
+  "homepage": "https://github.com/stephenkao/assemble-example#readme",
+  "devDependencies": {
+    "assemble": "^0.17.1",
+    "del": "^2.2.2",
+    "engine-assemble": "^0.4.1",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-extname": "^0.2.2",
+    "gulp-htmlmin": "^2.0.0",
+    "handlebars-helpers": "^0.7.5",
+    "handlebars-layouts": "^3.1.3"
+  }
+}
